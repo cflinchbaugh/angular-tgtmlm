@@ -6,3 +6,7 @@
 
 `ng serve`
 http://localhost:4200
+
+## Auto generate component directory and placeholder files
+
+`ng generate component <component-name>`
