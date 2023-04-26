@@ -9,4 +9,6 @@ http://localhost:4200
 
 ## Auto generate component directory and placeholder files
 
-`ng generate component <component-name>`
+`ng generate component <name>`
+
+`ng generate service <name>`
