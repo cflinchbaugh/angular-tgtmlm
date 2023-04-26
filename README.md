@@ -2,12 +2,17 @@
 
 `npm install`
 
-# Local Development
+## Local Development
 
 `ng serve`
 http://localhost:4200
 
-## Auto generate component directory and placeholder files
+### Testing
+
+Full suite: `ng test`
+Single file: `ng test --include="<relative-path>"`
+
+### Auto generate component directory and placeholder files
 
 `ng generate component <name>`
 
